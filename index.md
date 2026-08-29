@@ -10,13 +10,13 @@
 
 Read the English version of the manifesto.
 
-➡️ **[Read the Manifesto in English](MANIFESTO_EN.md)**
+➡️ **[Read the Manifesto in English](Manifesto_EN.md)**
 
 ### 🇫🇷 Français
 
 Lire la version française du manifeste.
 
-➡️ **[Lire le Manifeste en français](MANIFESTO_FR.md)**
+➡️ **[Lire le Manifeste en français](Manifesto_FR.md)**
 
 ---
 
