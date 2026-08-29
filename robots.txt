@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexunit.github.io/manifesto-humanity-ai/sitemap.xml
