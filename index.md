@@ -4,6 +4,8 @@ description: "An open manifesto on artificial intelligence, human dignity, freed
 lang: "en"
 canonical_url: "https://nexunit.github.io/manifesto-humanity-ai/"
 image: "/assets/og-manifesto.png"
+twitter:
+  card: "summary_large_image"
 seo:
   type: "WebPage"
 ---
