@@ -116,13 +116,13 @@ Technological power must remain accountable to humanity.
 
 Read the complete English version.
 
-**[→ Read the Manifesto in English](MANIFESTO_EN.md)**
+**[→ Read the Manifesto in English](Manifesto_EN.md)**
 
 ## 🇫🇷 Français
 
 Lire la version française complète.
 
-**[→ Lire le Manifeste en français](MANIFESTO_FR.md)**
+**[→ Lire le Manifeste en français](Manifesto_FR.md)**
 
 ---
 
