@@ -146,13 +146,13 @@ Et une question doit demeurer ouverte à chaque génération :
 
 ## Manifeste
 
-La version complète du manifeste sera disponible dans :
+La version complète du manifeste est disponible dans :
 
 ```text
-MANIFESTO.md
+Manifesto_FR.md
 ```
 
-Ce fichier sera la référence textuelle principale du dépôt.
+Ce fichier est la référence textuelle principale du dépôt.
 
 ---
 
