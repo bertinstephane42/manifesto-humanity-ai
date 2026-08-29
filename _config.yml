@@ -1,0 +1,16 @@
+title: "Manifesto for Humanity in the Age of Artificial Intelligence"
+
+description: "An open manifesto on artificial intelligence, human dignity, freedom, truth, responsibility and the common good."
+
+url: "https://nexunit.github.io"
+baseurl: "/manifesto-humanity-ai"
+
+lang: "en"
+
+author:
+  name: "Manifesto for Humanity in the Age of Artificial Intelligence"
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
